@@ -12,6 +12,19 @@ Aplicación móvil desarrollada en Flutter que permite seleccionar y reservar n�
 - Home
 - Lista de números
 - Detalle del número
+- ## Capturas de pantalla
+
+### Pantalla principal
+![Home](Captura de pantalla 2026-05-03 132802.png)
+
+### Lista de números
+![Lista](Captura de pantalla 2026-05-03 132912.png)
+
+### Detalle del número
+![Detalle](Captura de pantalla 2026-05-03 132957.png)
+
+### Reserva
+![Reserva](Captura de pantalla 2026-05-03 133031.png)
 
 ## Autor
 Jordi Coello
